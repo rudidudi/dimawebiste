@@ -9,7 +9,7 @@ export const translations = {
     },
     'nav.reestate': {
         en: 'Re-Estate',
-        it: 'Re-Immobili'
+        it: 'Re-Immobiliare'
     },
     'nav.mamacrowd': {
         en: 'Mamacrowd',
