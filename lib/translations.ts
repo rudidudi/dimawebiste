@@ -1,7 +1,7 @@
 export const translations = {
     're-estate': {
         en: 'Re-Estate',
-        it: 'Re-Estate'
+        it: 'Re-Estatee'
     },
     'nav.renew': {
         en: 'Re-New',
